@@ -2,7 +2,8 @@
 
 This is some code I wrote to test out websockets (the enhanced version of websockets
 provided by http://socket.io/) and Node. It depends on Node, socket.io (npm install socket.io),
-Express (npm install express) and jQuery.
+Express (npm install express) and jQuery. Colour values are drawn from http://lexadecimal.com/ and
+composers names are drawn from http://en.wikipedia.org/wiki/List_of_composers_by_name.
 
 I will probably be using something much like this for the upcoming Ludum Dare game jam:
 http://www.ludumdare.com/compo/.
